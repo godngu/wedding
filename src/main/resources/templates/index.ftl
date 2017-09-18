@@ -85,7 +85,7 @@
             <h1 id="homeHeading">우리 결혼해요</h1>
             <hr>
             <br>
-            <p>&lt;당신을 초대합니다.&gt;</p>
+            <p>&lt;당신을 초대합니다...&gt;</p>
 
             <br>
             <br>
