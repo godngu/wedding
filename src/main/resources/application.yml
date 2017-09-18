@@ -1,0 +1,11 @@
+test.kil: hello
+
+spring:
+  freemarker:
+    prefix: /
+    suffix: .ftl
+    cache: false
+    template-loader-path: classpath:/templates/
+  devtools:
+    livereload:
+      enabled: true
