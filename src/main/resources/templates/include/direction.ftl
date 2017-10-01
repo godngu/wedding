@@ -156,7 +156,7 @@
                             <ul class="list_ride" style="display: block">
                                 <li>
                                     <div class="bus_ride">
-                                        <span class="txt_number" style="padding-left: 8px">제2자유로 이용시 : 한류월드IC > 원마운트</span>
+                                        <span class="txt_number" style="padding-left: 8px">주엽역 2번출구 (15분 직진) > 원마운트</span>
                                     </div>
                                 </li>
                             </ul>
