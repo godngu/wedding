@@ -13,9 +13,9 @@
 
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box">
-                    <img src="/img/photo/profile/kil.jpg" class="img-responsive img-circle">
+                    <img src="/img/photo/profile/kil.png" class="img-responsive img-circle">
                     <h3>정길준</h3>
-                    <p class="text-muted">이곳에 하고싶은 말을 적읍시다.</p>
+                    <p class="text-muted">이사람을 찾으려고 그렇게 오래 기다렸나 봅니다.</p>
                 </div>
             </div>
 
@@ -23,24 +23,9 @@
                 <div class="service-box">
                     <img src="/img/photo/profile/9G.jpg" class="img-responsive img-circle">
                     <h3>구지윤</h3>
-                    <p class="text-muted">이곳에 하고싶은 말을 적읍시다.</p>
+                    <p class="text-muted">남편이 미남이라 다행이에요 :D</p>
                 </div>
             </div>
-
-            <#--<div class="col-lg-3 col-md-6 text-center">
-                <div class="service-box">
-                    <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-                    <h3>Up to Date</h3>
-                    <p class="text-muted">We update dependencies to keep things fresh.</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 text-center">
-                <div class="service-box">
-                    <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-                    <h3>Made with Love</h3>
-                    <p class="text-muted">You have to make your websites with love these days!</p>
-                </div>
-            </div>-->
         </div>
     </div>
 </section>

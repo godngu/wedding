@@ -78,128 +78,139 @@
                 <div class="service-box">
                     <div class="station_ride check_list">
                         <h4 class="screen_out">출구 근처 정류장 정보</h4>
+
+                        <div class="ride_wayout">
+                            <strong class="tit_wayout">
+                                <span class="txt_busstop">택시 이용시(추천)</span>
+                            </strong>
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #00B2C6">경기택시</span>
+                                </strong>
+                            </div>
+                            <ul class="list_ride" style="display: block; padding-bottom: 6px">
+                                <li>
+                                    <div class="bus_ride">
+                                        <span class="txt_number" style="padding-left: 8px">3호선 주엽역에서 원마운트 입구까지 기본요금</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        &nbsp;
                         <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
                             <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS263981" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">원마운트</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(58199) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 88m</span>
-                                </a>
+                                <span class="txt_busstop">자가용 이용시</span>
                             </strong>
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #A18874">서울방면</span>
+                                </strong>
+                            </div>
+                            <ul class="list_ride" style="display: block; padding-bottom: 6px">
+                                <li>
+                                    <div class="bus_ride">
+                                        <span class="txt_number" style="padding-left: 8px">제1자유로 이용시 : 강변북로 > 자유로 > 킨텍스IC > 원마운트</span>
+                                    </div>
+                                    <div class="bus_ride">
+                                        <span class="txt_number" style="padding-left: 8px">제2자유로 이용시 : 한류월드IC > 원마운트</span>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #A18874;">의정부방면</span>
+                                </strong>
+                            </div>
+                            <ul class="list_ride" style="display: block; padding-bottom: 6px">
+                                <li>
+                                    <div class="bus_ride">
+                                        <span class="txt_number" style="padding-left: 8px">서울외곽순환고속도록 > 자유로 > 킨텍스IC >  원마운트</span>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #A18874">인천공항방면</span>
+                                </strong>
+                            </div>
                             <ul class="list_ride" style="display: block">
                                 <li>
-                                    <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
                                     <div class="bus_ride">
-                                        <span class="num_ride">058<span class="bg_bar">|</span>080<span class="bg_bar">|</span>082</span>
-                                        <a href="http://map.daum.net?busStopId=BS263981" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                        <span class="txt_number" style="padding-left: 8px">신공항TGI > 노오지JC > 서울외곽순환고속도록 > 자유로 > 킨텍스IC >  원마운트</span>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                        <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+
+                        &nbsp;
+
+                        <div class="ride_wayout">
                             <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS265806" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">원마운트</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(58198) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 105m</span>
-                                </a>
+                                <span class="txt_busstop">지하철 이용시</span>
                             </strong>
-                            <ul class="list_ride">
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #E0751F">지하철 3호선</span>
+                                </strong>
+                            </div>
+                            <ul class="list_ride" style="display: block">
                                 <li>
-                                    <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
                                     <div class="bus_ride">
-                                        <span class="num_ride">010<span class="bg_bar">|</span>058<span class="bg_bar">|</span>080</span>
-                                        <a href="http://map.daum.net?busStopId=BS265806" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                        <span class="txt_number" style="padding-left: 8px">제2자유로 이용시 : 한류월드IC > 원마운트</span>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                        <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+
+                        &nbsp;
+
+                        <div class="ride_wayout">
                             <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS263015" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">원마운트.아쿠아리움</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(58276) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 174m</span>
-                                </a>
+                                <span class="txt_busstop">버스 이용시</span>
                             </strong>
-                            <ul class="list_ride">
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #DFCB0A">마을버스 80</span>
+                                </strong>
+                            </div>
+                            <ul class="list_ride" style="display: block">
                                 <li>
-                                    <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
                                     <div class="bus_ride">
-                                        <span class="num_ride">010<span class="bg_bar">|</span>058</span>
-                                        <a href="http://map.daum.net?busStopId=BS263015" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                        <span class="txt_number" style="padding-left: 8px; padding-bottom: 6px">주엽역 > 문촌 > 백병원 > 현대백화점 > 원마운트</span>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div>
+                                <strong class="">
+                                    <span class="txt_busstop" style="background-color: #DFCB0A">마을버스 82</span>
+                                </strong>
+                            </div>
+                            <ul class="list_ride" style="display: block">
+                                <li>
+                                    <div class="bus_ride">
+                                        <span class="txt_number" style="padding-left: 8px">주엽역 > 문촌서구청 > 대화역 > 종합운동장 > 현대백화점 > 원마운트</span>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                        <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
-                            <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS265807" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">아쿠아리움</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(58275) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 207m</span>
-                                </a>
-                            </strong>
-                            <ul class="list_ride">
-                                <li>
-                                    <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
-                                    <div class="bus_ride">
-                                        <span class="num_ride">010<span class="bg_bar">|</span>058</span>
-                                        <a href="http://map.daum.net?busStopId=BS265807" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
-                            <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS267078" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">원마운트</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(58093) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 211m</span>
-                                </a>
-                            </strong>
-                            <ul class="list_ride">
-                                <li>
-                                    <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
-                                    <div class="bus_ride">
-                                        <span class="num_ride">062</span>
-                                        <a href="http://map.daum.net?busStopId=BS267078" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
-                            <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS267081" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">한화꿈에그린아파트</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(58013) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 296m</span>
-                                </a>
-                            </strong>
-                            <ul class="list_ride">
-                                <li>
-                                    <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
-                                    <div class="bus_ride">
-                                        <span class="num_ride">062</span>
-                                        <a href="http://map.daum.net?busStopId=BS267081" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
-                            <strong class="tit_wayout">
-                                <a href="http://map.daum.net?busStopId=BS220895" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
-                                    <span class="txt_busstop">원마운트</span>
-                                    <span class="txt_number"><span class="screen_out">정류장 번호: </span>(20696) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 299m</span>
-                                </a>
-                            </strong>
-                            <ul class="list_ride">
-                                <li>
-                                    <em class="ico_traffic bus_normal">일반</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
-                                    <div class="bus_ride">
-                                        <span class="num_ride">33<span class="bg_bar">|</span>92<span class="bg_bar">|</span>92-1</span>
-                                        <a href="http://map.daum.net?busStopId=BS220895" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
+
+                    </div>
+
+
+
+
+
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<style>
+    .txt_busstop {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+</style>

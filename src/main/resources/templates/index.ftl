@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>길준♡지윤</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -81,11 +81,14 @@
 
 <header>
     <div class="header-content">
-        <div class="header-content-inner">
+        <div class="header-text-color header-content-inner">
             <h1 id="homeHeading">우리 결혼해요</h1>
             <hr>
             <br>
-            <p>&lt;당신을 초대합니다...&gt;</p>
+            <!--
+            <p>&lt;당신을 초대합니다^^&gt;</p>
+            -->
+            <p></p>
 
             <br>
             <br>
@@ -143,3 +146,11 @@
 </body>
 
 </html>
+
+<style>
+    .header-text-color {
+        text-shadow: -1px 0 black, 0 1px black,
+        1px 0 black, 0 -1px black
+    }
+</style>
+        text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87

@@ -10,10 +10,9 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
                             </div>
                             <div class="project-name">
-                                Project Name
+                                독일마을에서 맥주 한잔 마시고
                             </div>
                         </div>
                     </div>
@@ -28,10 +27,9 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
                             </div>
                             <div class="project-name">
-                                Project Name
+                                해안가에서
                             </div>
                         </div>
                     </div>
@@ -46,10 +44,9 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
                             </div>
                             <div class="project-name">
-                                Project Name
+                                키는 남자가 더 커야 제맛이죠
                             </div>
                         </div>
                     </div>
@@ -64,10 +61,9 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
                             </div>
                             <div class="project-name">
-                                Project Name
+                                그녀가 벚꽃과 다른점은 선글라스를 꼈다는 것
                             </div>
                         </div>
                     </div>
@@ -82,10 +78,9 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
                             </div>
                             <div class="project-name">
-                                Project Name
+                                그리 좋조?
                             </div>
                         </div>
                     </div>
@@ -100,10 +95,9 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
                             </div>
                             <div class="project-name">
-                                Project Name
+                                최대한 불량스럽게
                             </div>
                         </div>
                     </div>
