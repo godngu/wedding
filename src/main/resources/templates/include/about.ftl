@@ -21,7 +21,7 @@
 
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box">
-                    <img src="/img/photo/profile/9G.jpg" class="img-responsive img-circle">
+                    <img src="/img/photo/profile/9G_01.jpg" class="img-responsive img-circle">
                     <h3>구지윤</h3>
                     <p class="text-muted">남편이 미남이라 다행이에요 :D</p>
                 </div>
